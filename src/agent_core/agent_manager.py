@@ -28,5 +28,5 @@ if __name__ == '__main__':
 
     while True:
         text = input('>>> ')
-        result = manager.process(text)
+        #result = manager.process(text)
         print(result)
